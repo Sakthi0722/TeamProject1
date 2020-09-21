@@ -4,6 +4,7 @@ One of Git's most powerful features is the ability to easily create and merge br
 
 A commonly used branching workflow in Git is to create a new code branch for each new feature, bug fix, or enhancement. These are called Feature Branches. Each branch compartmentalizes the commits related to a particular feature. Once the new feature is complete – i.e. a set of changes has been committed on the feature branch – it is ready to be merged back into the master branch (or other main code line branch depending on the workflow in use).
 
+By default, git merge command refuses to merge histories that do not share a common ancestor. This option can be used to override this safety when merging histories of two projects that started their lives independently. As that is a very rare occasion, no configuration variable to enable this by default exists and will not be added.
 ## How to Merge
 
 1. Fork a repository on GitHub(If not a Collaborator)
