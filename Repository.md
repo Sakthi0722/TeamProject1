@@ -17,6 +17,7 @@ There are 2 ways to create repositories:
 ## Creating a Repository in GitHub
 
 1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
+
 ![SS1](https://docs.github.com/assets/images/help/repository/repo-create.png)
 2. Type a short, memorable name for your repository. For example, "hello-world".
 ![SS2](https://docs.github.com/assets/images/help/repository/create-repository-name.png)
