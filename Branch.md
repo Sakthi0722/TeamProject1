@@ -7,6 +7,6 @@ When you create a branch in your project, you're creating an environment where y
 1. Fork a repository on GitHub(If not a Collaborator)
 ![Fork](https://docs.gitlab.com/ee/user/project/repository/img/forking_workflow_fork_button.png)
 2. Clone it onto your computer
-![Image1](Image7.png "Image3")
+![Image1](https://github.com/Sakthi0722/TeamProject1/blob/master/Images/Image7.png "Image3")
 3. Make a branch and move to it
-![Image11](Image11.png "Image11")
+![Image11](https://github.com/Sakthi0722/TeamProject1/blob/master/Images/Image11.png.png "Image11")
