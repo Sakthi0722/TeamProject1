@@ -10,5 +10,7 @@
 
 [Why Docker ? and Docker Tutorials](Why%20Docker.md)
 
+[Introduction to Automated Testing](Automated%20Testing.md)
+
 
 
