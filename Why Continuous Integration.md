@@ -9,6 +9,7 @@
 ### *Reason 1: Run your tests in the real world*
 *Have you ever had your tests pass on your machine, but fail on someone else's? Well, with CI you can avoid that embarrassment. Just push your code to your new branch and the CI server will take care of running the tests for you. If everything is green, you can be sure that you didn't break anything. And if they fail for someone else, you have evidence that they are wrong.*
 
+
 ### *Reason 2: Increase your code coverage*
 *Think your tests cover most of your code? Well think again. A CI server can check your code for test coverage. Now, every time you commit something new without any tests, you will feel the shame that comes with having your coverage percentage go down because of your changes.*
 
