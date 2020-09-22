@@ -8,6 +8,7 @@ Updates files in the working tree to match the version in the index or the speci
 
 To prepare for working on branch, switch to it by updating the index and the files in the working tree, and by pointing HEAD at the branch. Local modifications to the files in the working tree are kept, so that they can be committed to the <branch>.
 
+
 ## *Example*
 
 The following sequence checks out the master branch, reverts the Makefile to two revisions back, deletes hello.c by mistake, and gets it back from the index.
