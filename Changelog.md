@@ -61,9 +61,9 @@ Added definition 'Merge' from @Sakthi0722
 
 Updated Image Link 'Clone' from @Sakthi0722
 
-Updated 'Readme'
+Updated 'Readme' from @Sakthi0722
 
-Updated 'Changelog'
+Updated 'Changelog' from @Sakthi0722
 ### Task
 
 Uploaded Images to Directory from @Sakthi0722
