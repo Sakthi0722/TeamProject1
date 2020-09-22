@@ -14,7 +14,7 @@
 
 ## Index
 
-**Section1:**
+**Section1**
 - [Git Introduction](Introduction%20to%20Git.md)
 
 - [Why use Git and Git Tutorials](Why%20Git.md)
@@ -31,10 +31,10 @@
 
 - [Why Use Continuous Integration?](Why%20Continuous%20Integration.md)
 
-**Section2:**
+**Section2**
 - [GitFlow](GitFlow.md)
 
-**Section3:**
+**Section3**
 - [Repository](Repository.md)
 
 - [Clone](Clone.md)
@@ -59,18 +59,60 @@
 
 - [Master Branch](Master%20Branch.md)
 
+
 ## Changelog
 
-[Changelog](changelog.md)
+[Changelog](Changelog.md)
+
 
 ## Sources
 
-[Link1](https://guides.github.com/)
-[Link2](https://try.github.io/)
-[Link3](https://docs.docker.com/get-started/overview/)
-[Link4](https://dzone.com/articles/introduction-to-docker-1#:~:text=Docker%20is%20an%20open%20platform,isolated%20environment%20called%20a%20container.)
+- https://guides.github.com/
 
-[Link5](https://opensource.com/resources/what-docker)
-[Link6](https://www.tutorialspoint.com/docker/index.htm)
-[Link7](https://smartbear.com/solutions/automated-testing/#:~:text=Vastly%20Increases%20Your%20Test%20Coverage,to%20help%20improve%20software%20quality.&text=Test%20automation%20can%20easily%20execute,is%20impossible%20with%20manual%20tests.)
-[Link8](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+- https://try.github.io/
+
+- https://docs.docker.com/get-started/overview/
+
+- https://dzone.com/articles/introduction-to-docker-1#:~:text=Docker%20is%20an%20open%20platform,isolated%20environment%20called%20a%20container.
+
+- https://opensource.com/resources/what-docker
+
+- https://www.tutorialspoint.com/docker/index.htm
+
+- https://smartbear.com/solutions/automated-testing/#:~:text=Vastly%20Increases%20Your%20Test%20Coverage,to%20help%20improve%20software%20quality.&text=Test%20automation%20can%20easily%20execute,is%20impossible%20with%20manual%20tests.
+
+- https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+- https://www.atlassian.com/continuous-delivery/continuous-integration
+
+- https://www.thoughtworks.com/continuous-integration#:~:text=Continuous%20Integration%20(CI)%20is%20a,teams%20to%20detect%20problems%20early.
+
+- https://about.gitlab.com/blog/2015/02/03/7-reasons-why-you-should-be-using-ci/
+
+- https://smartbear.com/learn/automated-testing/what-is-automated-testing/
+
+- https://www.guru99.com/automation-testing.html
+
+- https://www.softwaretestinghelp.com/automation-testing-tutorial-1/
+
+- https://www.testim.io/blog/test-automation-benefits/
+
+- https://git-scm.com/docs/git-checkout
+
+- https://git-scm.com/docs/git-push
+
+- https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.
+
+- https://git-scm.com/docs/git-pull
+
+- https://www.atlassian.com/git/tutorials/syncing
+
+- https://git-scm.com/docs/git-remote
+
+- https://www.atlassian.com/git/tutorials/inspecting-a-repository#:~:text=The%20git%20status%20command%20displays,regarding%20the%20committed%20project%20history.
+
+- https://git-scm.com/docs/git-status
+
+- https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=A%20branch%20in%20Git%20is,branch%20pointer%20moves%20forward%20automatically.
