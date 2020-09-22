@@ -61,5 +61,3 @@ CI functionality comes with a list of supportive technologies that may be learni
 # *Summary*
 
 *CI is a standard fixture of modern high efficiency software development organizations. The best companies have robust CI pipelines and don’t think twice about further efficiency investments. The benefits of CI are not limited to the engineering team and applicable to the whole organization.*
-
-*Many 3rd party tools exist to aid in CI management and installation which include Codeship, Bitbucket Pipelines, SemaphoreCI, CircleCI, Jenkins, Bamboo, Teamcity and many others. These tools have their own in depth setup guides and documentation to help get started.*
