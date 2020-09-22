@@ -8,3 +8,5 @@
 ## *Example*
 
 >git status
+
+![status_example](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/15-1.png)
