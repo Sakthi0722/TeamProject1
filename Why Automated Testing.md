@@ -1,5 +1,7 @@
 # *WHY AUTOMATED TESTING?*
 
+![automated_testing](https://blog.crossbrowsertesting.com/wp-content/uploads/2017/09/Speedometer.png)
+
 ### *Reason 1: Automated Testing Saves Time and Money*
 *Software tests have to be repeated often during development cycles to ensure quality. Every time source code is modified software tests should be repeated. For each release of the software it may be tested on all supported operating systems and hardware configurations. Manually repeating these tests is costly and time consuming. Once created, automated tests can be run over and over again at no additional cost and they are much faster than manual tests. Automated software testing can reduce the time to run repetitive tests from days to hours. A time savings that translates directly into cost savings.*
 
