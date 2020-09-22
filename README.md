@@ -18,11 +18,11 @@
 
 - [Introduction to Automated Testing](Automated%20Testing.md)
 
-- [Why Use Automated Testing](Why%20Automated%20Testing.md)
+- [Why Use Automated Testing?](Why%20Automated%20Testing.md)
 
 - [Continuous Integration](Continuous%20Integration.md)
 
-- [Why Use Continuous Integration](Why%20Continuous%20Integration.md)
+- [Why Use Continuous Integration?](Why%20Continuous%20Integration.md)
 
 - [Repository](Repository.md)
 
