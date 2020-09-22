@@ -12,7 +12,6 @@
 ### *Reason 2: Increase your code coverage*
 *Think your tests cover most of your code? Well think again. A CI server can check your code for test coverage. Now, every time you commit something new without any tests, you will feel the shame that comes with having your coverage percentage go down because of your changes.*
 
-
 ### *Reason 3: Deploy your code to production*
 *You can have the CI server automatically deploy your code to production if all the test within a given branch are green. This is what is formally known as Continuous Deployment, or Oh my God, that was scary, I'm glad my code worked! in some circles.*
 
